@@ -92,16 +92,3 @@ This project is part of my learning journey and internship tasks at **\[Your Org
 
 ---
 
-## 📬 Contact
-
-Created by **\[Your Name]**
-🔗 [LinkedIn](https://linkedin.com/in/yourname)
-📧 [your.email@example.com](mailto:your.email@example.com)
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-
